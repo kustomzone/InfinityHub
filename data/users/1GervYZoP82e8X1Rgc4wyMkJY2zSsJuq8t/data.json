@@ -1,0 +1,26 @@
+{
+	"next_comment_id": 4,
+	"user_name": "<tkarita/>",
+	"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+	"post_like": {},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@bot: you're right... the colors never show up because of the links.",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_5",
+			"date_added": 1470963551
+		},
+		{
+			"comment_id": 2,
+			"body": "well, they are on the profile page",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_5",
+			"date_added": 1470963607
+		},
+		{
+			"comment_id": 3,
+			"body": "also in the \"everyone\" feed, but not in \"followed\"",
+			"post_uri": "1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb_5",
+			"date_added": 1470963749
+		}
+	]
+}

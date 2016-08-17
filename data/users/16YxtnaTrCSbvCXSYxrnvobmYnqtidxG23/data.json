@@ -1,0 +1,14 @@
+{
+ "address": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+ "files": {
+  "avatar.png": {
+   "sha512": "b87aff036edb6e0a25d989f9cfb06a6f2879da7a6ff0ee9c8406c9680a9a4608",
+   "size": 1432
+  }
+ },
+ "inner_path": "data/users/16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23/data.json",
+ "modified": 1470858857.022,
+ "signs": {
+  "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo": "HKm1CbJOLObM/Q4Q5TY2Wy/RcuEuwldiOsnVvvl36utSxhrl680Iq7byBcMC+8gcqtHIlrPRr88T4HoP3NruVgY="
+ }
+}

@@ -1,0 +1,206 @@
+{
+ "address": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+ "background-color": "black",
+ "cloneable": true,
+ "description": "ZNet0.4.0(rev1422) has blocked our hub permission. Go figure!",
+ "files": {
+  "data-default/users/content.json-default": {
+   "sha512": "f6f1ea7add8991b47bec8a6bca592df47660e301a10c8a2da794b2a31f442567",
+   "size": 735
+  },
+  "dbschema.json": {
+   "sha512": "32b39f33f2fa731a6c89114b3797b6fd629df72f673d399250fdf4c920038e6c",
+   "size": 2846
+  },
+  "ext/css/font-awesome.min.css": {
+   "sha512": "019bc0c66127ac90895f10f036ed7192a19fd374b4672cb2c790149ea87ae60f",
+   "size": 27486
+  },
+  "ext/css/fonts.css": {
+   "sha512": "cb3e589ac15b429003fd382dc73f3bfeed7e6b98c2d2e3aad2d26d012a825e42",
+   "size": 83952
+  },
+  "ext/css/infinity.css": {
+   "sha512": "d45a7d57fb85e41c57fde79facc61579b0abbedcc884d8293e5918914ba99815",
+   "size": 32444
+  },
+  "ext/css/tabstyles.css": {
+   "sha512": "9bc1e80066ff7705a37e6595c3ffba0a4a93d66e7293e99fc5266eea094c963f",
+   "size": 13524
+  },
+  "ext/js/demo.js": {
+   "sha512": "d9c909569d262a5efe49cdb43b3df382baf4fe38aa863c45e576466a18426528",
+   "size": 306481
+  },
+  "ext/js/infinity.js": {
+   "sha512": "f2993a16c8d0c9fc97af0a72338e8039e1aec047338ba0d32ddf8fa54bba17a7",
+   "size": 137591
+  },
+  "ext/js/min/anime.min.js": {
+   "sha512": "b7dee3d48e12c4206dc5690f75d1eb74945db1dd2d2652d54a8e9a424accd022",
+   "size": 9693
+  },
+  "ext/js/min/jquery.min.js": {
+   "sha512": "b5532fab53730e6872aae19593868864d5843db06b965feeb5ae76d8f8236bf3",
+   "size": 93021
+  },
+  "ext/js/min/maquette.min.js": {
+   "sha512": "16c33851accb8638e8955dd0678eba11adbc52d1a6a8c501bffde46cde029561",
+   "size": 8912
+  },
+  "ext/js/min/marked.min.js": {
+   "sha512": "ae62b9d1c74e9708fc75ecc9a5c7aed2104f1d022497cd59b82d550c3ab40c65",
+   "size": 19209
+  },
+  "ext/js/pngencoder.js": {
+   "sha512": "ecaadaad552d2610336995b48360253cd6d847b6aa590fc3d96e7245a5d5fe11",
+   "size": 53602
+  },
+  "img/Chat.png": {
+   "sha512": "3707262086eceb34213c7d6a2b6dc8a4bd34578d8ff6b176125155b9b511bbd4",
+   "size": 860
+  },
+  "img/Followers.png": {
+   "sha512": "68ab81391eefece024bfeca78c8d794a8d4df364e9eec1313417493a4c0c04e0",
+   "size": 1580
+  },
+  "img/Hub.png": {
+   "sha512": "3e4c7618d4d13fe09876d50e5e231d9b925ef23776a896042802729bc09789d1",
+   "size": 2268
+  },
+  "img/I-Hub.jpg": {
+   "sha512": "e16548be8e3eeb1678b03df967ad4ff01ec50b36e0e1c405256ebb7269c7133b",
+   "size": 26605
+  },
+  "img/Infinite.png": {
+   "sha512": "331b0046ed1cf8c4c38dbeeab1433127d4a1db4465f314d544aa17d5beca0946",
+   "size": 2970
+  },
+  "img/Mentions.png": {
+   "sha512": "8c42ff190b10deacf0a34a302a80534610695ed214d650bc10f1b3e2d7de1e5d",
+   "size": 3380
+  },
+  "img/Screeny15-08-2016.jpg": {
+   "sha512": "0afb12269db32de2493f40e01e73a160c7fb6f2b1b999c91bc42ff47674e244d",
+   "size": 40063
+  },
+  "img/add.png": {
+   "sha512": "32bb144e47272d85e7f73fb60bfdb8bf31f3d8e7c06954f57d6ed1d9ef60a7a1",
+   "size": 821
+  },
+  "img/config.png": {
+   "sha512": "e0773699cb2b77589ba65c752f69a5164755fc9c58ba373c9117ee521fd754b6",
+   "size": 949
+  },
+  "img/delete.png": {
+   "sha512": "ea892bea375b3a22efc9c7ea7390b2b3b5c7be3d2169805dc86eb4cef55645dc",
+   "size": 1197
+  },
+  "img/down.png": {
+   "sha512": "fc162b270531c9f777ced396e78d5cc95aebbb8fae12790af695de5f6418f2a1",
+   "size": 3012
+  },
+  "img/edit.png": {
+   "sha512": "5ef12f008f7e1b3905add6acfc7eb920fd37219cef347899c1e94f6550d53d87",
+   "size": 795
+  },
+  "img/favicon.ico": {
+   "sha512": "0e27f25c1bb8e019f8b0f10d2849d8b51136fcaa6e0d5fef7dda3acd05900318",
+   "size": 766
+  },
+  "img/fonts/Roboto-Medium.woff": {
+   "sha512": "268e0286495f34638f8da584a4eae5b010cdd98a89f68798e58035a676cd01a2",
+   "size": 21472
+  },
+  "img/fonts/stroke7pixeden/stroke7pixeden.eot": {
+   "sha512": "299563d2897c1eacf1417709f2938833c0326a433cb2e9006252d3f859931fc9",
+   "size": 6160
+  },
+  "img/fonts/stroke7pixeden/stroke7pixeden.svg": {
+   "sha512": "9907bfc1d1d85a44706c272bbf3ff0a383a116877df942b30a219f51872a7631",
+   "size": 14068
+  },
+  "img/fonts/stroke7pixeden/stroke7pixeden.ttf": {
+   "sha512": "6e4dbfab2b4c60e0f07cb1cf92b310bfd38a144e26045a0d425245e5c7bb6ed2",
+   "size": 5968
+  },
+  "img/fonts/stroke7pixeden/stroke7pixeden.woff": {
+   "sha512": "08f1f4ae5d3c550260306399068f3aaa7920ce46fe7867425022dd43de6c5ebc",
+   "size": 4168
+  },
+  "img/loading-circle.gif": {
+   "sha512": "339baf1bccb9b80ae29c2493e73b40cf0588c96fc095954b475dea0538aaa929",
+   "size": 2346
+  },
+  "img/loading.gif": {
+   "sha512": "8a42b98962faea74618113166886be488c09dad10ca47fe97005edc5fb40cc00",
+   "size": 723
+  },
+  "img/new_icon.jpg": {
+   "sha512": "711f6e9d9885a85c57ca990354321b893906b8f149ee215c0a2c1ad0e3566a18",
+   "size": 1515
+  },
+  "img/search.png": {
+   "sha512": "380d0374b96853e526adaa4070a5947ceab5bff5f64214629a101ce3c6e6cdf8",
+   "size": 388
+  },
+  "img/unkown.png": {
+   "sha512": "a972f05819097c3a38801b9004bf5011a2dcca257b915617d8ea44c202f2cdbd",
+   "size": 595
+  },
+  "img/up.png": {
+   "sha512": "7ee02def5b80ae793e8cd27df1cad70de5a8a4b55ee7389be1689899641b546a",
+   "size": 3004
+  },
+  "index.html": {
+   "sha512": "b4e4c80455f850092f96e022f6cb84ad12521dbe198405fc24ad833a5de04492",
+   "size": 3774
+  }
+ },
+ "ignore": "(merged-.*|data/.*db|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "ZeroMe",
+ "modified": 1471385488.507,
+ "postmessage_nonce_security": true,
+ "settings": {
+  "default_hubs": {
+   "12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv": {
+    "description": "The size limit is raised, because she can't keep quiet!",
+    "title": "Kaffie's Hub"
+   },
+   "1BLueGvui1GdbtsjcKqCf4F67uKfritG49": {
+    "description": "Hub for ZeroMe users. Runner: Nofish",
+    "title": "Blue hub"
+   },
+   "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i": {
+    "description": "Hub for ZeroMe users. Runner: Nofish",
+    "title": "Green hub"
+   },
+   "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo": {
+    "description": "Infinity or Bust!",
+    "title": "1NFiNiTY HuB"
+   },
+   "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL": {
+    "description": "Hub for ZeroMe users. Runner: Nofish",
+    "title": "Red hub"
+   }
+  }
+ },
+ "sign": [
+  76408985395031440963241520361505251167573316321454499928214073610978618482356,
+  75702994100993287946500923666472454429207404607663306803229053238568247642945
+ ],
+ "signers_sign": "G6hx4bcAjg2BJy7e+Ctt5mY6xQR2TjJ+3PAuvv/pHM1SVTkSuiJh8OpRFdbMILSrxnis4yyiq5VICa03AcS2PpY=",
+ "signs": {
+  "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo": "GwgkvVkddWSJGkXSatliGRX5bFi2/CdslgwqCHE+jZWStxcTdC1tjwTxKKwNcHIc+FBZgVPDkzNja3MTxSUyYNI="
+ },
+ "signs_required": 1,
+ "title": "1NFiNiTY HuB",
+ "zeronet_version": "0.4.0"
+}

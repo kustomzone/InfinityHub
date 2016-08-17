@@ -1,0 +1,69 @@
+{
+	"next_post_id": 3,
+	"next_comment_id": 3,
+	"next_follow_id": 6,
+	"avatar": "generate",
+	"user_name": "Nofish",
+	"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+	"intro": "ZeroNet dev",
+	"post": [
+		{
+			"post_id": 1,
+			"date_added": 1470838909,
+			"body": "Hello ZeroMe!"
+		},
+		{
+			"post_id": 2,
+			"body": "Looking good, let's publish it!",
+			"date_added": 1470845694
+		}
+	],
+	"post_like": {
+		"16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23_1": 1470839314,
+		"1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN_2": 1470856102
+	},
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Comment test #2",
+			"post_uri": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23_1",
+			"date_added": 1470839289
+		},
+		{
+			"comment_id": 2,
+			"body": "Yes, images and more features planned later. (I will add a blog post about planned features later)",
+			"post_uri": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN_2",
+			"date_added": 1470856097
+		}
+	],
+	"follow": [
+		{
+			"follow_id": 1,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "16YxtnaTrCSbvCXSYxrnvobmYnqtidxG23",
+			"user_name": "Hellozeronetwork",
+			"date_added": 1470839278
+		},
+		{
+			"follow_id": 3,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "1QLL6cXP25nm3SZ48At3ogR1HL3xM1CUPp",
+			"user_name": "Tortester",
+			"date_added": 1470846123
+		},
+		{
+			"follow_id": 4,
+			"hub": "1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL",
+			"auth_address": "1CMjV2r4EBpFt8VCcWWZKDysZXPcPExRNN",
+			"user_name": "Testingzeronet12",
+			"date_added": 1470856029
+		},
+		{
+			"follow_id": 5,
+			"hub": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+			"auth_address": "13Mt8T2256Uz4GHk9B4XvKqyz37wPgA26q",
+			"user_name": "Dadda",
+			"date_added": 1470856034
+		}
+	]
+}

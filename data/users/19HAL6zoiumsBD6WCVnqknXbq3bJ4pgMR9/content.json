@@ -1,0 +1,21 @@
+{
+ "address": "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo",
+ "cert_auth_type": "web",
+ "cert_sign": "IHck/JxuYMQxZN2v2pVH4kvmJLR+pWQFkSZDOssWNWMlBRVEaNT+HZx1jyUTgL9pfNyRGps+JR5FFO9SBWgCG/s=",
+ "cert_user_id": "19HAL6zoiumsB@nanasi",
+ "files": {
+  "avatar.gif": {
+   "sha512": "3a3c45f14584d76d787707e34a7735fc8962b38e6d337ac4f228ee65ae3080f6",
+   "size": 8790
+  },
+  "data.json": {
+   "sha512": "399b3fab01f81d0f3ea9f69d7a4e8d4f0e4bbaa00bca805a1665630950eec7c4",
+   "size": 403
+  }
+ },
+ "inner_path": "data/users/19HAL6zoiumsBD6WCVnqknXbq3bJ4pgMR9/content.json",
+ "modified": 1470860024.347,
+ "signs": {
+  "1NFiNiTYxiKn5PJo9eDEsiusJJUFkew5Vo": "HDuPz9iBSUX37rk9mG4054saVCvf+krZnA0c43G3XXQesmXMDU/spGSY8eRszTrR/Xvpys+s3vDUxVItz07ti/0="
+ }
+}
